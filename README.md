@@ -56,7 +56,7 @@ This approach mirrors how many astronomical instruments store spectral data effi
 The processed spectrum reveals key features:
 - A stable continuum region between ~2000-2700 Å
 - Increased noise at shorter wavelengths (~1800 Å)
-- A localized feature near 2800 Å, possible indicating an emission or absorption line
+- A localized feature near 2800 Å, possibly indicating an emission or absorption line
 - A rising trend at longer wavelengths (~3000-3400 Å)
 These patterns are consistent with real observational spectral data, which often includes noise and instrument-dependent effects.
 
